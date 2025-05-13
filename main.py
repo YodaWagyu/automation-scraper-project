@@ -1,4 +1,4 @@
-from bigc_scraper import run_scraper
+from bigc_scraper_od import run_scraper
 
 def main(request):
     run_scraper()
