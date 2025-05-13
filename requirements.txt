@@ -3,3 +3,4 @@ bs4
 requests
 google-cloud-bigquery
 google-auth
+openpyxl
